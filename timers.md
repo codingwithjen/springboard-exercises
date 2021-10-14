@@ -13,3 +13,16 @@ Write a function called countdown that accepts a number as a parameter and every
 >
 >// "DONE!"
 
+```function countDown(time) {
+    let timer = setInterval(function () {
+        time--;
+        clearInterval(timer);
+        if (time <= 0) {
+            console.log("DONE!");
+        }
+        else {
+            console.log(time);
+        }
+    }, 1000)
+}
+```
