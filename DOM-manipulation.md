@@ -75,9 +75,9 @@ Write the code necessary to do the following:
 >
 > for (let i = 0; i < liInsideOl.length; i++) {
 >
->       liInsideOl[i].style.backgroundColor = "green";
+> liInsideOl[i].style.backgroundColor = "green";
 >
->   }
+> }
 
 12. **Remove the div with a class of footer.**
 > let footer = document.querySelector(".footer");
