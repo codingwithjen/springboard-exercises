@@ -2,5 +2,8 @@
 Write the following terminal commands to perform the following taks:
 
 ### Part 1
-1. Make a directory called *first*
+1. **Make a directory called** *first*:
+mkdir first
+
+2. 
 
